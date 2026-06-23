@@ -18,6 +18,7 @@ This system integrates three conceptual frameworks into one single unified engin
 
 ## 📁 System Architecture & Directory Layout
 
+
 ```text
 air-gapped-noc-copilot/
 │
